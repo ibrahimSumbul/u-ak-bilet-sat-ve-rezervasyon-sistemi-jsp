@@ -1,5 +1,4 @@
 <p align="center">
- <img width="240px" height="40px" src="https://github.com/nejlasahin/airline-reservation-system/blob/master/web/assets/images/logo.png" align="center" alt="GitHub Readme" />
  <h2 align="center">Uçak Rezervasyon Sistemi</h2>
 </p>
 
